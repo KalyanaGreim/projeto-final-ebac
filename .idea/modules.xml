@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/backend-java-pro-main.iml" filepath="$PROJECT_DIR$/.idea/backend-java-pro-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulo-15-aula-2/memelandia/memelandia.iml" filepath="$PROJECT_DIR$/modulo-15-aula-2/memelandia/memelandia.iml" />
+    </modules>
+  </component>
+</project>
